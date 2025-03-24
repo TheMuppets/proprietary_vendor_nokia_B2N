@@ -195,7 +195,6 @@ PRODUCT_PACKAGES += \
     libfih_camera_effect \
     libflash_dummy_flash \
     libflash_pmic \
-    libgui_vendor \
     libhal_dbg \
     libimage_matting \
     libjpegdhw \
