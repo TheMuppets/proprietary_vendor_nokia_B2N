@@ -90,7 +90,8 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/B2N/proprietary/vendor/firmware/gxfp3208_b2n.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/gxfp3208_b2n.b07 \
     vendor/nokia/B2N/proprietary/vendor/firmware/gxfp3208_b2n.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/gxfp3208_b2n.mdt \
     vendor/nokia/B2N/proprietary/vendor/firmware/novatek_h_glass_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_h_glass_ts_fw.bin \
-    vendor/nokia/B2N/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin
+    vendor/nokia/B2N/proprietary/vendor/firmware/novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/novatek_ts_fw.bin \
+    vendor/nokia/B2N/proprietary/vendor/usr/keylayout/goodix_fp.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/goodix_fp.kl
 
 PRODUCT_PACKAGES += \
     libsensor1 \
